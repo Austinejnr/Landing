@@ -1,0 +1,2 @@
+# Landing
+Typical Landing Page
